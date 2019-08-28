@@ -17,6 +17,6 @@
   "DataActions": [],
   "NotDataActions": [],
   "AssignableScopes": [
-    "/subscriptions/'ADD YOUR SUBSCRIPTION ID HERE'"
+    "/subscriptions/ADD YOUR SUBSCRIPTION ID HERE"
   ]
 }
