@@ -1,4 +1,4 @@
-# Hack the domain controller in Azure
+# How to hack the domain controller in Azure
 Script, steps and REMEDIATION
 
 
