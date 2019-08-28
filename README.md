@@ -1,6 +1,5 @@
-# hack.this
+# Hack This Domain Controller
 Hack domain controller in Azure script and steps
-
 
 
 # Hack Steps
