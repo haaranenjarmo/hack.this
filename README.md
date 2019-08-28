@@ -1,5 +1,5 @@
 # Hack This Domain Controller
-Hack domain controller in Azure script and steps
+Hack domain controller in Azure script, steps and REMEDIATION
 
 
 # Hack Steps
@@ -14,7 +14,6 @@ Hack domain controller in Azure script and steps
 8. Click folder icon to upload script file
 9. Click Ok
 
-## You are done
 
 # Remediation steps
 
