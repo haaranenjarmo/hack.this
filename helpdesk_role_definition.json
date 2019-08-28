@@ -1,0 +1,22 @@
+{
+  "Name": "Custom Helpdesk role",
+  "IsCustom": true,
+  "Description": "Lets you manage everything except access to resources and add or delete virtual machine custom extensions",
+  "Actions": [
+    "*"
+  ],
+  "NotActions": [
+    "Microsoft.Authorization/*/Delete",
+    "Microsoft.Authorization/*/Write",
+    "Microsoft.Authorization/elevateAccess/Action",
+    "Microsoft.Blueprint/blueprintAssignments/write",
+    "Microsoft.Blueprint/blueprintAssignments/delete",
+    "Microsoft.Compute/virtualMachines/extensions/write",
+    "Microsoft.Compute/virtualMachines/extensions/delete"
+  ],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    ""
+  ]
+}
