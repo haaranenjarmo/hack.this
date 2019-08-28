@@ -1,5 +1,5 @@
-# Hack This Domain Controller
-Hack domain controller in Azure script, steps and REMEDIATION
+# Hack the domain controller in Azure
+Script, steps and REMEDIATION
 
 
 # Hack Steps
